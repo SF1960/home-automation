@@ -1,3 +1,5 @@
+''' This is Python 2 code'''
+
 #import the required modules
 import RPi.GPIO as GPIO
 import time
